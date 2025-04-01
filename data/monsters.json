@@ -1,1 +1,8 @@
-
+{
+    "goblin": {
+        "name": "Goblin",
+        "hp": 50,
+        "attack": 5,
+        "drop": ["potion", "gold"]
+    }
+}
