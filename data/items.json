@@ -1,1 +1,14 @@
-
+{
+    "sword": {
+        "name": "Iron Sword",
+        "type": "weapon",
+        "attack": 10,
+        "price": 500
+    },
+    "potion": {
+        "name": "Health Potion",
+        "type": "consumable",
+        "heal": 25,
+        "price": 100
+    }
+}
