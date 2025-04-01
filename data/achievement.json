@@ -1,1 +1,6 @@
-
+{
+    "achievement_1": {
+        "name": "First Blood",
+        "description": "Kalahkan monster pertama"
+    }
+}
