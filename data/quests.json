@@ -1,1 +1,6 @@
-
+{
+    "quest_1": {
+        "name": "Hunt 10 Goblins",
+        "reward": {"gold": 1000, "xp": 500}
+    }
+}
